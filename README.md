@@ -3,8 +3,6 @@
 <h4>NOTE: When you open the URL, sometimes you will wait 10-20 seconds to start the app, because of the free domain which i used!</h4>
 
 <h3>Welcome to the official documentation for ShopRush, a dynamic web application built using the Express framework and powered by MongoDB for efficient database management. ShopRush offers a comprehensive online shopping experience, enabling users to seamlessly perform actions like user registration, login, logout, product creation, and more.</h3>
-<br>
-<img src="https://th.bing.com/th/id/OIG.eNJQBhLCMx6nywAqrNy2?pid=ImgGn" width="450px" height="400px">
 
  <h2>Table of Contents</h2>
     <ol>
